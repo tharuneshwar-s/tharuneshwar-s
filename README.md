@@ -45,6 +45,7 @@ the best version of my self.
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" width="26px" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/django.svg' alt='django' />
 <img align="left" width="26px" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/flask.svg' alt='flask' />
+<img align="left" width="26px" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/heroku.svg' alt='heroku' />
 
 
 
