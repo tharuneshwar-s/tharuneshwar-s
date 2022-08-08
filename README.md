@@ -32,19 +32,19 @@ the best version of my self.
 
 ### Languages and Tools:
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vscode] &nbsp; 
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][html5] &nbsp; 
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][css3] &nbsp; 
-[<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][sass] &nbsp; 
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][js] &nbsp; 
-[<img align="left" width="26px" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/adobexd.svg' alt='adobexd' />][adobe] &nbsp; 
-[<img align="left" width="26px" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/figma.svg' alt='figma'/>][figma]   &nbsp; 
-[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][react] &nbsp; 
-[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg" />][python] &nbsp; 
-[<img align="left" alt="java" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg" />][java] &nbsp; 
-[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][sql] &nbsp; 
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/bootstrap.svg" />][bootstrap] &nbsp; 
-[<img align="left" width="26px" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/django.svg' alt='django' />][django]  
+<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
+<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" width="26px" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/adobexd.svg' alt='adobexd' />
+<img align="left" width="26px" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/figma.svg' alt='figma'/>
+<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg" />
+<img align="left" alt="java" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg" />
+<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
+<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/bootstrap.svg" />
+<img align="left" width="26px" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/django.svg' alt='django' />
 
 
 
