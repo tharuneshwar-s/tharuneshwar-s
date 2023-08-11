@@ -1,6 +1,6 @@
 ## Hi, I'm Tharuneshwar! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2><br/>
  
-- ⚡ Fun Fact: I'm an avid explorer of new technologies 👨‍💻, a passionate football enthusiast ⚽, and I absolutely love spending quality time with my friends 😻.
+- ⚡ Fun Fact: I'm an avid explorer of new technologies 👨‍💻 || a passionate football enthusiast ⚽ || I absolutely love spending quality time with my friends 😻.
 - 🔧  A true developer immerses themselves in every facet of the tech world: from crafting seamless frontends to engineering robust backends, meticulously testing and ensuring quality, orchestrating infrastructure, and mastering the art of devops.
 
 <br/>
