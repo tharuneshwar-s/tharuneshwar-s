@@ -86,7 +86,7 @@
       <a title="Docker" href="https://docker.com" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/> </a>
     </td>
     <td>
-     <a title="Nginx" href="https://nginx.com" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a>
+     <a title="Nginx" href="https://aws.com" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg" alt="nginx" width="40" height="40"/> </a>
     </td>
     <td>
       <a title="Microsoft Azure" href="https://azure.microsoft.com" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="azure" width="40" height="40"/> </a>
