@@ -34,6 +34,9 @@
     <td>
       <a title="Express" href="http://expressjs.com" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" alt="expressjs" width="40" height="40"/> </a>
     </td>
+      <td>
+      <a title="NestJs" href="http://nestjs.com" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a>
+    </td>
   </tr>
 
   <tr>
