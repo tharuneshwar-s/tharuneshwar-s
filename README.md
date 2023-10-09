@@ -104,24 +104,8 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=THARUNESHWAR-369&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
-
-## ❤ Connect
-
-
-<a href="[https://www.linkedin.com/in/vimal11/](https://www.linkedin.com/in/tharuneshwar-s/)">
-  <img align="left" alt="Vimal's LinkedIn" src="https://img.icons8.com/bubbles/50/000000/linkedin.png"/>
-</a>
-
-<a href="mailto:itstharuneshwar@gmail.com">
-  <img align="left" alt="Tharuneshwar's Email" src="https://img.icons8.com/bubbles/50/000000/gmail.png"/>
-</a>
-
-<a href="https://www.instagram.com/__.tharun.__.s__/">
-  <img align="left" alt="Vimal's Instagram" src="https://img.icons8.com/bubbles/50/000000/instagram.png"/>
-</a>  
-<br><br>  
-
-
-
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=THARUNESHWAR-369&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=THARUNESHWAR-369&limit=5&theme=dark&combine_all_yearly_contributions=true)
