@@ -121,14 +121,14 @@
 <p align="center"> 📊 🅖🅘🅣🅗🅤🅑 🅢🅣🅐🅣🅢</p>
 
 <p align="center">
-<a href="https://github.com/getintorj?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=getintorj&theme=gotham&show_icons=true&count_private=true&hide_border=false&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@Getintorj's github-readme-stats"/></a>
-<a href="https://github.com/getintorj?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=getintorj&theme=gotham&hide_border=false&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@RJ's github-readme-streak-stats"/></a>
+<a href="https://github.com/THARUNESHWAR-369?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=THARUNESHWAR-369&theme=gotham&show_icons=true&count_private=true&hide_border=false&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@THARUNESHWAR-369's github-readme-stats"/></a>
+<a href="https://github.com/THARUNESHWAR-369?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=THARUNESHWAR-369&theme=gotham&hide_border=false&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@RJ's github-readme-streak-stats"/></a>
 </p>
 
 <!-- activity graph heroku-app start -->
 <p align="center">
     <a href="https://jharohit.com.np/">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=getintorj&theme=react-dark&hide_border=false&hide_title=false&area=true&custom_title=Total%20Contribution%20Graph%20In%20All%20Repo" width="95%" alt="activity graph">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=THARUNESHWAR-369&theme=react-dark&hide_border=false&hide_title=false&area=true&custom_title=Total%20Contribution%20Graph%20In%20All%20Repo" width="95%" alt="activity graph">
     </a>
 </p>
 <!-- activity graph heroku-app end -->
