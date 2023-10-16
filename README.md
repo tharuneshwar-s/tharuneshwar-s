@@ -4,7 +4,25 @@
 - 🔧  A true developer immerses themselves in every facet of the tech world: from crafting seamless frontends to engineering robust backends, meticulously testing and ensuring quality, orchestrating infrastructure, and mastering the art of devops.
 
 <br/>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=THARUNESHWAR-369&label=Profile%20views&color=0e75b6&style=flat" alt="THARUNESHWAR-369" /> </p>
+
+
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<p align="center">
+  🅒🅞🅝🅝🅔🅒🅣 🅦🅘🅣🅗 🅜🅔
+   </p>
+<p align="center">
+<a href=https://www.buymeacoffee.com/tharuneshwars" target="_blank"><img alt="" src="https://img.shields.io/badge/Help%20Me-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" style="vertical-align:center" /></a>
+<a href="https://discord.gg/2UtDww55" target="_blank"><img alt="" src="https://img.shields.io/badge/discord-000?style=for-the-badge&logo=discord&logoColor=4e5d94" style="vertical-align:center" /></a>
+<a href="https://www.linkedin.com/in/tharuneshwar-s/" target="_blank"><img alt="" src="https://img.shields.io/badge/LinkedIn-000?logo=linkedin&logoColor=0A66C2&style=for-the-badge" style="vertical-align:center" /></a>
+<a href="https://www.instagram.com/__.tharun.__.s__/" target="_blank"><img alt="" src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=Instagram&logoColor=E4405F" style="vertical-align:center" /></a>
+<a href="https://replit.com/@THARUNESHWARS" target="_blank"><img alt="" src="https://img.shields.io/badge/replit-000?style=for-the-badge&logo=replit&logoColor=FFA500" style="vertical-align:center" /></a>
+<a href="https://codepen.io/tharuneshwar-369" target="_blank"><img alt="" src="https://img.shields.io/badge/codepen-000?style=for-the-badge&logo=codepen&logoColor=FFFFFF" style="vertical-align:center" /></a>
+</p>
+
+<br/>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=THARUNESHWAR-369&label=Profile%20views&color=0e75b6&style=flat" alt="THARUNESHWAR-369" /> </p>
 
 
 ## Skills
@@ -97,15 +115,49 @@
   </tr>
 </table>
 
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=THARUNESHWAR-369&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=THARUNESHWAR-369&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=THARUNESHWAR-369&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+---
 
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=THARUNESHWAR-369&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<p align="center"> 📊 🅖🅘🅣🅗🅤🅑 🅢🅣🅐🅣🅢</p>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=THARUNESHWAR-369&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+<a href="https://github.com/getintorj?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=getintorj&theme=gotham&show_icons=true&count_private=true&hide_border=false&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@Getintorj's github-readme-stats"/></a>
+<a href="https://github.com/getintorj?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=getintorj&theme=gotham&hide_border=false&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@RJ's github-readme-streak-stats"/></a>
+</p>
+
+<!-- activity graph heroku-app start -->
+<p align="center">
+    <a href="https://jharohit.com.np/">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=getintorj&theme=react-dark&hide_border=false&hide_title=false&area=true&custom_title=Total%20Contribution%20Graph%20In%20All%20Repo" width="95%" alt="activity graph">
+    </a>
+</p>
+<!-- activity graph heroku-app end -->
+
+
+
+
+---
+
+
+<p align="center">
+    🅖🅘🅣🅗🅤🅑 🅣🅡🅞🅟🅗🅘🅔🅢
+</p>
+
+ ![](https://github-profile-trophy.vercel.app/?username=THARUNESHWAR-369&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+
+---
+
+``` java
+if (codeWorking){
+            while (codeQuality < perfectCode){
+                codeQuality++;
+            }
+        }
+// - ROHIT JHA
+```
+
+<hr />
+<div align="center">
+  <i>"Don't ever let somebody tell you, you can't do something! <br><b>You got a dream… You gotta protect it</b>.<br> People can’t do something themselves, they wanna tell you you can’t do it. <br><b>If you want something, go get it. Period</b>"</i>
+</div>
