@@ -123,6 +123,10 @@
 <p align="center">
 <a href="https://github.com/THARUNESHWAR-369?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=THARUNESHWAR-369&theme=gotham&show_icons=true&count_private=true&hide_border=false&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@THARUNESHWAR-369's github-readme-stats"/></a>
 <a href="https://github.com/THARUNESHWAR-369?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=THARUNESHWAR-369&theme=gotham&hide_border=false&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@RJ's github-readme-streak-stats"/></a>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=THARUNESHWAR-369&theme=gotham&layout=compact"width="47%"/> 
+</p>
 </p>
 
 <!-- activity graph heroku-app start -->
