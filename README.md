@@ -41,14 +41,15 @@ I'm always open to meeting new people, collaboration, or simply catching up. Fee
 
 ## 📊 GitHub Stats
 <div align=center>
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=THARUNESHWAR-369&theme=neon&hide_border=true" alt="GitHub Streak" /></a>
+<!-- <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=THARUNESHWAR-369&theme=neon&hide_border=true" alt="GitHub Streak" /></a> -->
   <a href="https://github.com/THARUNESHWAR-369?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=THARUNESHWAR-369&theme=radical&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@THARUNESHWAR-369's github-readme-stats"/></a>
 </div>
-
+<br/>
 <p align="center">
+<img src='https://nirzak-streak-stats.vercel.app/?user=THARUNESHWAR-369&theme=dark&hide_border=false' />
+</p>
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=THARUNESHWAR-369&theme=radical&layout=donut"/> 
-</p>
 </p>
 
 <!-- activity graph heroku-app start -->
@@ -68,19 +69,9 @@ I'm always open to meeting new people, collaboration, or simply catching up. Fee
 
 </p>
 
-
----
-
-``` java
-if (codeWorking){
-            while (codeQuality < perfectCode){
-                codeQuality++;
-            }
-        }
-// - ROHIT JHA
-```
+![Taehyun's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=THARUNESHWAR-369)
 
 <hr />
-<div align="center">
-  <i>"Don't ever let somebody tell you, you can't do something! <br><b>You got a dream… You gotta protect it</b>.<br> People can’t do something themselves, they wanna tell you you can’t do it. <br><b>If you want something, go get it. Period</b>"</i>
+<div align="center" style='background: purple; color: white;'>
+  <i>"The best code is code that isn't written"</i>
 </div>
