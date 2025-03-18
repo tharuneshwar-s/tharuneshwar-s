@@ -8,7 +8,7 @@
 <br/>
 
 ## Contributions
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/THARUNESHWAR-369/THARUNESHWAR-369/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" align='center' src="https://raw.githubusercontent.com/THARUNESHWAR-369/THARUNESHWAR-369/output/github-contribution-grid-snake.svg" />
   <br/><br/><br/>
 </div>
 
@@ -66,11 +66,10 @@ I'm always open to meeting new people, collaboration, or simply catching up. Fee
 ## 🏆 Github Trophies 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=THARUNESHWAR-369&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
-
 </p>
-
-![Taehyun's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=THARUNESHWAR-369)
-
+<p align="center">
+<img src='https://github-contributor-stats.vercel.app/api?username=THARUNESHWAR-369&limit=5&theme=dark&combine_all_yearly_contributions=true' />
+</p>
 <hr />
 <div align="center" style='background: purple; color: white;'>
   <i>"The best code is code that isn't written"</i>
