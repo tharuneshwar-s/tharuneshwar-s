@@ -8,7 +8,7 @@
 <br/>
 
 ## Contributions
-  <img alt="snake eating my contributions" align='center' src="https://raw.githubusercontent.com/THARUNESHWAR-369/THARUNESHWAR-369/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" align='center' src="https://raw.githubusercontent.com/tharuneshwar-s/tharuneshwar-s/output/github-contribution-grid-snake.svg" />
   <br/><br/><br/>
 </div>
 
@@ -100,27 +100,27 @@ I'm always open to meeting new people, collaboration, or simply catching up. Fee
 
 
 <br/>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=THARUNESHWAR-369&label=Profile%20views&color=0e75b6&style=flat" alt="THARUNESHWAR-369" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=tharuneshwar-s&label=Profile%20views&color=0e75b6&style=flat" alt="tharuneshwar-s" /> </p>
 
 
 
 ## 📊 GitHub Stats
 <div align=center>
-<!-- <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=THARUNESHWAR-369&theme=neon&hide_border=true" alt="GitHub Streak" /></a> -->
-  <a href="https://github.com/THARUNESHWAR-369?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=THARUNESHWAR-369&theme=radical&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@THARUNESHWAR-369's github-readme-stats"/></a>
+<!-- <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=tharuneshwar-s&theme=neon&hide_border=true" alt="GitHub Streak" /></a> -->
+  <a href="https://github.com/tharuneshwar-s?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=tharuneshwar-s&theme=radical&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@tharuneshwar-s's github-readme-stats"/></a>
 </div>
 <br/>
 <p align="center">
-<img src='https://nirzak-streak-stats.vercel.app/?user=THARUNESHWAR-369&theme=dark&hide_border=false' />
+<img src='https://nirzak-streak-stats.vercel.app/?user=tharuneshwar-s&theme=dark&hide_border=false' />
 </p>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=THARUNESHWAR-369&theme=radical&layout=donut"/> 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tharuneshwar-s&theme=radical&layout=donut"/> 
 </p>
 
 <!-- activity graph heroku-app start -->
 <!--<p align="center">
     <a href="https://jharohit.com.np/">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=THARUNESHWAR-369&theme=react-dark&hide_border=false&hide_title=false&area=true&custom_title=Total%20Contribution%20Graph%20In%20All%20Repo" width="95%" alt="activity graph">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=tharuneshwar-s&theme=react-dark&hide_border=false&hide_title=false&area=true&custom_title=Total%20Contribution%20Graph%20In%20All%20Repo" width="95%" alt="activity graph">
     </a>
 </p>-->
 <!-- activity graph heroku-app end -->
@@ -130,10 +130,10 @@ I'm always open to meeting new people, collaboration, or simply catching up. Fee
 
 ## 🏆 Github Trophies 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=THARUNESHWAR-369&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=tharuneshwar-s&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
 </p>
 <p align="center">
-<img src='https://github-contributor-stats.vercel.app/api?username=THARUNESHWAR-369&limit=5&theme=dark&combine_all_yearly_contributions=true' />
+<img src='https://github-contributor-stats.vercel.app/api?username=tharuneshwar-s&limit=5&theme=dark&combine_all_yearly_contributions=false' />
 </p>
 <hr />
 <div align="center" style='background: purple; color: white;'>
